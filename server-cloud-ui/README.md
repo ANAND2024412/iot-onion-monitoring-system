@@ -17,3 +17,7 @@ for the IoT-based onion monitoring system.
 - Cloud database (Firebase / similar)
 - Web UI (HTML, CSS, JavaScript / React)
 - REST API / HTTP communication
+  
+### Implementation Note
+Only core JavaScript source code is included here.
+Build files, credentials, and deployment configurations are intentionally excluded.
