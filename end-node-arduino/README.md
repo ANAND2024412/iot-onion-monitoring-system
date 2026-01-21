@@ -18,3 +18,6 @@ The end node is responsible for local sensing and control in the onion storage u
 
 ### Communication
 - BLE (HM-10) to Edge Node
+### End Nodes
+- Node 1: Primary sensing and control node
+- Node 2: Secondary sensing node for multi-location monitoring
