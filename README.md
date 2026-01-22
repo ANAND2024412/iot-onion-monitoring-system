@@ -15,9 +15,9 @@ The system consists of:
 - Edge Node ↔ Server : WiFi / Internet
 
 ## Technologies Used
-- Arduino, ESP32
+- Arduino Uno , ESP32
 - Embedded C
-- BLE, WiFi
+- BLE, WiFi 
 - Cloud database & Web UI
 
 - ## System Summary
@@ -31,4 +31,4 @@ The design emphasizes modularity, scalability, and real-world deployment conside
 
 ## Author
 Anand PS  
-MTech Embedded Systems
+MTech Embedded Systems 
